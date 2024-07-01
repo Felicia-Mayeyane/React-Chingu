@@ -7,7 +7,7 @@ function Home() {
         <h3>Welcome to</h3>
         <h1>Chingu<span>&Coffee</span></h1>
         <p>At Chingu & Coffee, we believe that coffee is more than just a beverage—it's a catalyst for connection...</p>
-        <a href="#" className="btn">Order Now</a>
+        <a href="#home" className="btn">Order Now</a>
       </div>
     </section>
   );
