@@ -11,7 +11,7 @@ function Coffee() {
           <div className="coffee-info">
             <h4>Seoul Sunrise Blend</h4>
             <p>Medium-roasted Arabica beans sourced from the lush hillsides of South Korea.</p>
-            <a href="#"><i className='bx bxs-coffee'></i></a>
+            <a href="#coffee"><i className='bx bxs-coffee'></i></a>
           </div>
         </div>
       </div>
