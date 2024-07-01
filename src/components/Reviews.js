@@ -10,7 +10,7 @@ function Reviews() {
           <i className='bx bx-user-circle'></i>
           <h3>Emily Che</h3>
           <p>Amazing people, amazing coffee. What more could anyone ask for?</p>
-          <a href="#" className="btn">Read More</a>
+          <a href="#reviews" className="btn">Read More</a>
         </div>
       </div>
     </section>
